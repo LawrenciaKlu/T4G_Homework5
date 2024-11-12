@@ -1,0 +1,49 @@
+h2{color: rgb(97, 15, 173);
+    font-weight: 100px;
+    text-transform: capitalize;
+    line-height: 10px;
+  }
+.Lawshii_image{
+    width:45%;
+    border-radius: 50%;
+}
+
+.contact_info{
+    font-display: 50px;
+    margin-right: 20%;
+    font-size: large;
+      
+}
+.Project2{
+    height: 600px;
+    width: 300px;
+}
+.Align{
+    text-align: left;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    
+}
+.Image_projects{
+    align-self: baseline;
+    
+}
+.Spacing{
+    line-height: 150%;
+    margin-top: 17%;
+}
+.Image_div{
+    display: flex;
+    font-display: 30%;
+    background-color: rgb(126, 36, 211);
+    padding: 30px;
+    margin-top: 20px;
+    border-top: 30%; 
+    font-size: small;
+    height: 50px;
+}
+
+
+
+
